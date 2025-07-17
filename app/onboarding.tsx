@@ -13,7 +13,7 @@ export default function Onboarding() {
     const checkOnboarding = async () => {
       const hasSeen = await AsyncStorage.getItem(ONBOARDING_KEY);
       if (hasSeen) {
-        router.replace('/');
+        router.replace('/chats');
       } else {
         setLoading(false);
       }
@@ -23,7 +23,7 @@ export default function Onboarding() {
 
   const handleNext = async () => {
     await AsyncStorage.setItem(ONBOARDING_KEY, 'true');
-    router.replace('/');
+    router.replace('/chats');
   };
 
   if (loading) return null;
