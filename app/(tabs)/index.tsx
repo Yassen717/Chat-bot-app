@@ -6,6 +6,7 @@ export default function HomeScreen() {
   return (
     <View className='flex-1 items-center justify-center'>
       <Text className='text-red-500'>Hello</Text>
+      <Text className='text-blue-500'>Hello</Text>
     </View>
   )
 }
