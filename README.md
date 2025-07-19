@@ -48,3 +48,18 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## أيقونات التطبيق
+
+فيما يلي قائمة بالأيقونات والصور المستخدمة في التطبيق (موجودة في مجلد `assets/images`):
+
+| اسم الملف                | معاينة                | الوصف                  |
+|--------------------------|-----------------------|------------------------|
+| adaptive-icon.png        | ![adaptive-icon](assets/images/adaptive-icon.png) | أيقونة متكيفة للتطبيق |
+| favicon.png              | ![favicon](assets/images/favicon.png)             | فافيكون (أيقونة المتصفح) |
+| icon.png                 | ![icon](assets/images/icon.png)                   | الأيقونة الرئيسية للتطبيق |
+| partial-react-logo.png   | ![partial-react-logo](assets/images/partial-react-logo.png) | شعار React جزئي |
+| react-logo.png           | ![react-logo](assets/images/react-logo.png)       | شعار React (عادي) |
+| react-logo@2x.png        | ![react-logo@2x](assets/images/react-logo@2x.png) | شعار React (دقة 2x) |
+| react-logo@3x.png        | ![react-logo@3x](assets/images/react-logo@3x.png) | شعار React (دقة 3x) |
+| splash-icon.png          | ![splash-icon](assets/images/splash-icon.png)     | أيقونة شاشة البداية |
